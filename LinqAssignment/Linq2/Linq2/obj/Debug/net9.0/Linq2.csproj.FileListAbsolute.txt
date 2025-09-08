@@ -1,0 +1,14 @@
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\bin\Debug\net9.0\Linq2.exe
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\bin\Debug\net9.0\Linq2.deps.json
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\bin\Debug\net9.0\Linq2.runtimeconfig.json
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\bin\Debug\net9.0\Linq2.dll
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\bin\Debug\net9.0\Linq2.pdb
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.GeneratedMSBuildEditorConfig.editorconfig
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.AssemblyInfoInputs.cache
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.AssemblyInfo.cs
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.csproj.CoreCompileInputs.cache
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.dll
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\refint\Linq2.dll
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.pdb
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\Linq2.genruntimeconfig.cache
+F:\my work\2- Rowad\2025\S1\Linq2\Linq2\obj\Debug\net9.0\ref\Linq2.dll

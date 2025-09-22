@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lab 1</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    input, select, button { margin: 5px; padding: 5px; }
+    #output { margin-top: 15px; font-size: 16px; }
+    img { display: block; margin-top: 15px; max-width: 100%; height: auto; border: 1px solid #ccc; }
+    .error { color: red; font-size: 14px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h2>Lab 1</h2>
+  
+  <label>Enter Name: </label>
+  <input type="text" id="username"><br>
+  
+  <label>Enter Image File: </label>
+  <input type="text" id="imageName" placeholder="example.jpg"><br>
+  
+  <label>Select Font Size: </label>
+  <select id="fontSize">
+    <option value="16">16px</option>
+    <option value="20">20px</option>
+    <option value="24">24px</option>
+    <option value="30">30px</option>
+  </select>
+  
+  <button id="increaseFont">+</button>
+  <button id="decreaseFont">-</button>
+  <button id="enlargeImage">Enlarge Image</button>
+  <button id="clickBtn">Click</button>
+
+  <div id="errorBox" class="error"></div>
+  
+  <div id="output"></div>
+  <div id="imageText"></div>
+  <img id="displayImg" src="" alt="" hidden>
+  
+  <script src="main.js"></script>
+</body>
+</html>
